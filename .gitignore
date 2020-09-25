@@ -1,0 +1,5 @@
+index.html
+resume.html
+*.pdf
+public/
+node_modules

@@ -1,0 +1,29 @@
+{
+  "name": "resume.cameronmoon.com",
+  "version": "1.0.0",
+  "description": "Cameron Moon's resume / CV.",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume serve --theme cmrn",
+    "test": "resume test",
+    "export": "resume export --theme cmrn cameron-moon.pdf",
+    "deploy": "resume export index.html --theme cmrn && surge ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrn/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "jsonresume"
+  ],
+  "author": "Cameron Moon <cameron@cameronmoon.com>",
+  "license": "CC-BY-NC-ND-4.0",
+  "homepage": "https://resume.cameronmoon.com",
+  "devDependencies": {
+    "jsonresume-theme-rocketspacer": "^1.2.2",
+    "resume-cli": "^2.0.0",
+    "surge": "^0.21.6"
+  }
+}

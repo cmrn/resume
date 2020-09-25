@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/cmrn/resume/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-09-25"
+  },
+  "basics": {
+    "name": "Cameron Moon",
+    "label": "Senior software engineer, front-end",
+    "picture": "https://www.gravatar.com/avatar/c67a1ce6cecbb5e7e9f397f5d173778a.jpg?s=200",
+    "email": "cameron@cameronmoon.com",
+    "website": "https://resume.cameronmoon.com",
+    "summary": "I'm a senior to lead level software engineer, specialising in front-end disciplines including application security, design systems, and front-end ops. I have a rare breadth of cross-discipline experience which allows me to quickly dive into foreign problem domains.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Melbourne",
+      "countryCode": "AU",
+      "region": "Victoria"
+    }
+  },
+  "work": [
+    {
+      "company": "Culture Amp",
+      "position": "Senior Front-End Engineer",
+      "website": "https://cultureamp.com",
+      "startDate": "2018-09-24",
+      "highlights": [
+        "Wrote and maintained the application security developer training for Culture Amp's front-end engineering practice.",
+        "Given responsibility over the improvement of Culture Amp's front-end security posture, including fixing CSRF weaknesses, implementing best-practice secure HTTP headers, resolving data privacy incidents, and enabling GDPR compliance.",
+        "Helped uplift legacy user interfaces with first class localisation support.",
+        "Upgraded data visualisation components within Culture Amp's advanced reporting visualisations.",
+        "Worked closely with customer support teams to provide operational engineering support to customers.",
+        "Mentored engineers from Culture Amp's Junior Engineering Program."
+      ]
+    },
+    {
+      "company": "Redbubble",
+      "position": "Senior Software Engineer",
+      "website": "https://redbubble.com",
+      "startDate": "2017-01-15",
+      "endDate": "2018-04-18",
+      "highlights": [
+        "Migrated user authentication out of a legacy monolithic codebase into an AWS-backed standalone service. Advised and enabled teams across the engineering group to facilitate service adoption.",
+        "Drove adoption of React and GraphQL, coached developers in React best practices, and contributed to the creation of a company-wide React component catalog, later developed into a full design system.",
+        "Facilitated technical decision making, led team rituals, and mentored engineers."
+      ]
+    },
+    {
+      "company": "Spaarks",
+      "position": "Software Engineering Consultant",
+      "website": "https://spaarks.com",
+      "startDate": "2013-05-01",
+      "endDate": "2016-09-30",
+      "highlights": [
+        "Designed and developed custom back-office web applications for clients including Save the Children, Deutsche Bank, and ACT Health.",
+        "Led on-site client consultations to gather requirements, estimate and plan upcoming projects.",
+        "Responsible for creating prototypes to demonstrate concepts to clients and research emerging technologies.",
+        "Organised hackathons, lean coffee chats, and pair programming rituals to improve engineer knowledge sharing."
+      ]
+    },
+    {
+      "company": "VSoft Technologies",
+      "position": "Software Engineer (Casual)",
+      "website": "https://www.finalbuilder.com",
+      "startDate": "2011-07-01",
+      "endDate": "2012-07-01",
+      "summary": "Developed modules for VSoft's continuous integration product, Continua CI, enabling it to interact with a range of source control systems, test suites, build runners, and other development tools."
+    },
+    {
+      "company": "Freelance",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2008-01-01",
+      "endDate": "2011-07-01",
+      "summary": "Designed, developed, and managed websites & online stores for a client base of small businesses."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Campaign Against Racism & Fascism",
+      "position": "Activist – Tech Coordinator",
+      "website": "https://carf.melbourne",
+      "startDate": "2017-06-12"
+    },
+    {
+      "organization": "Victorian Socialists",
+      "position": "Campaign Volunteer – Software Engineer",
+      "website": "https://victoriansocialists.org.au",
+      "startDate": "2018-06-15",
+      "endDate": "2018-11-15"
+    },
+    {
+      "organization": "MakeHackVoid",
+      "position": "Founding Member, Committee Member",
+      "website": "https://makehackvoid.com",
+      "startDate": "2010-06-12",
+      "endDate": "2015-06-15"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Australian National University",
+      "area": "Bachelor of Information Technology (Honours)",
+      "studyType": "Research School of Computer Science",
+      "startDate": "2012-02-01",
+      "endDate": "2012-11-01",
+      "score": "Second Class Honours Division A – 70-79% (H2A)"
+    },
+    {
+      "institution": "University of Canberra",
+      "area": "Bachelor of Software Engineering",
+      "studyType": "School of Information Technology and Systems",
+      "startDate": "2009-02-01",
+      "endDate": "2011-11-01",
+      "score": "Distinction – 75-84% (D)"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Generating Mondrian-like Art using Interactive Genetic Algorithms",
+      "publisher": "Australian National University",
+      "releaseDate": "2012-10-01",
+      "summary": "My undergraduate thesis, testing the ability of genetic algorithms to generate more aesthetically pleasing artwork based on the viewer's feedback."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end engineering",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Application security",
+        "Front-end ops",
+        "Design systems",
+        "Accessibility",
+        "Internationalisation",
+        "Web typography"
+      ]
+    },
+    {
+      "name": "Technical architecture & design",
+      "keywords": [
+        "Back-ends For Front-ends (BFFs)",
+        "Service and microservice architectures",
+        "API design",
+        "Monolith decomposition",
+        "Event sourcing",
+        "UX research",
+        "Agile development"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Advanced: JavaScript, HTML/CSS, Ruby",
+        "Competent: Python, Bash",
+        "Rusty: C#, Java, PHP",
+        "Curious: Elm, Go, Kotlin, Dart"
+      ]
+    }
+  ]
+}
